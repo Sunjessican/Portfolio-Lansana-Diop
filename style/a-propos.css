@@ -1,0 +1,16 @@
+main {
+  background-color: rgb(3, 3, 114);
+}
+
+.a-propos {
+  margin: auto;
+}
+
+h2 {
+  margin-top: 30px;
+  color: white;
+}
+
+ul {
+  margin-top: 20px;
+}
